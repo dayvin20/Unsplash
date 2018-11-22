@@ -21,6 +21,15 @@
       <h1>Unsplash Photography Spotlight</h1>
       <p>[About Me]</p>
       <!-- InstanceBeginEditable name="Master-Template" -->
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+          <li class="breadcrumb-item active">Julian Schröpel</li>
+          <li class="breadcrumb-item active">Example Photo</li>
+          <!-- TemplateEndEditable -->
+        </ol>
+      </nav>
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
