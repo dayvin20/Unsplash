@@ -16,11 +16,19 @@
   <body>
     <div class="container">
       <h1>Unsplash Photography Spotlight</h1>
-      
       <!-- TemplateBeginEditable name="Master-Template" -->
-		<p>This is where content goes</p>
+      <p>This is where content goes</p>
       <!-- TemplateEndEditable -->
-      <p>[Footer]</p>
+      <div class="row">
+        <div class="col-12 col-sm-6">
+          Made with [] and [] by Dayvin Alvarez
+        </div>
+        <div class="col-12 col-sm-6">
+          Connect with me: 
+			<a href="https://www.facebook.com" target="_blank">Facebook</a>
+			<a href="https://www.instagram.com" target="_blank">Instagram</a>
+        </div>
+      </div>
     </div>
     
     <!-- Optional JavaScript --> 
