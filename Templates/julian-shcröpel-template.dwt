@@ -14,12 +14,17 @@
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
   <!-- InstanceEndEditable -->
-	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
+  <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
+    <div class="unsplash-header">
+      <div class="container">
+        <h1><a href="../index.html">Unsplash Photography Spotlight</a></h1>
+      </div>
+    </div>
     <div class="container">
-      <h1>Unsplash Photography Spotlight</h1>
       <!-- InstanceBeginEditable name="Master-Template" -->
       <nav>
         <ol class="breadcrumb">
@@ -53,14 +58,16 @@
         </div>
       </div>
       <!-- InstanceEndEditable -->
-      <div class="row">
-        <div class="col-12 col-sm-6">
-          Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Dayvin Alvarez
-        </div>
-        <div class="col-12 col-sm-6">
-          Connect with me: 
-			<a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
-			<a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
+    <div class="unsplash-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-6">
+            Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Dayvin Alvarez
+          </div>
+          <div class="col-12 col-sm-6 text-right">
+            Connect with me: <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a> <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+          </div>
         </div>
       </div>
     </div>

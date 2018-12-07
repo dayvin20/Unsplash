@@ -24,4 +24,38 @@ a:hover {
 	border-color: #DE775E;
 }
 
+.unsplash-header {
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-header h1 small {
+	font-size: .35em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+.unsplash-header a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-header a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.unsplash-footer {
+	border-top: solid 5px #409aa9;
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	margin-top: 2em;
+	color: #ffffff;
+}
+.unsplash-footer a {
+	color: #ffffff;
+}
+
 
