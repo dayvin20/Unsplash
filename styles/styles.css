@@ -1,5 +1,27 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
-	background-color: #EEEEEE;
+	background-color: #eeeeee;
 }
+h1, h2, h3 {
+	font-family: 'Wire One', sans-serif;
+}
+a {
+	color: #25333a;
+}
+a:hover {
+	color: #409aa9;
+	text-decoration: none;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #07417B;
+	border-color: #07417B;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #DE775E;
+	border-color: #DE775E;
+}
+
+
