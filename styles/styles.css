@@ -57,5 +57,10 @@ a:hover {
 .unsplash-footer a {
 	color: #ffffff;
 }
+.unsplash-home-page-intro {
+	background-color: #409aa9;
+	margin:3em 0;
+	color: #ffffff;
+}
 
 
