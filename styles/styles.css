@@ -87,3 +87,26 @@ a:hover {
 .breadcrumb-item+.breadcrumb-item::before {
 	color: #ffffff;
 }
+
+
+.modal h1 {
+	margin:0;
+}
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.5em;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+}
+dd small {
+	font-size: .8em;
+	font-weight: 100;
+}
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
