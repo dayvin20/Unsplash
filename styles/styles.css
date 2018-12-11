@@ -59,6 +59,7 @@ a:hover {
 }
 .unsplash-home-page-intro {
 	background-color: #409aa9;
+<<<<<<< HEAD
 	padding:3em 0;
 	color: #ffffff;
 	margin-bottom: 2em
@@ -85,6 +86,9 @@ a:hover {
 	font-weight: 400;
 }
 .breadcrumb-item+.breadcrumb-item::before {
+=======
+	margin:3em 0;
+>>>>>>> design-home-page
 	color: #ffffff;
 }
 
