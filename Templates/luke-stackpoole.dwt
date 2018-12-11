@@ -42,15 +42,7 @@
     
     <div class="container">
       <!-- InstanceBeginEditable name="Master-Template" -->
-      <nav>
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">Luke Stackpoole</li>
-          <li class="breadcrumb-item active">Example Photo</li>
-          <!-- TemplateEndEditable -->
-        </ol>
-      </nav>
+      
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
@@ -61,7 +53,7 @@
             </div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item"><a href="https://www.withluke.com" target="_blank"><i class="fas fa-globe"></i> Website</a></li>
-              <li class="list-group-item"><a href="https://www.instagram.com/withluke/" target="_blank">></i>Instagram</a></li>
+              <li class="list-group-item"><a href="https://www.instagram.com/withluke/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
               
             </ul>
           </div>

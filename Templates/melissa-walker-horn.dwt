@@ -42,15 +42,7 @@
     
     <div class="container">
       <!-- InstanceBeginEditable name="Master-Template" -->
-      <nav>
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">Melissa Walker Horn</li>
-          
-          <!-- TemplateEndEditable -->
-        </ol>
-      </nav>
+     
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
